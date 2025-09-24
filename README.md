@@ -2,7 +2,7 @@
 
 Welcome to **React Native App**!  
 A cross-platform mobile application built with **React Native** ⚛️, designed to run on both **Android 🤖** and **iOS 🍎**.  
-This project serves as a starter template with navigation, reusable components, and utilities to kickstart mobile development.
+This project serves as a starter template with navigation, reusable components.
 
 ## ✨ Features
 
